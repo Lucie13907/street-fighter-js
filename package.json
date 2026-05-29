@@ -31,7 +31,7 @@
         "lint-staged": "^13.2.2",
         "prettier": "^2.8.8",
         "simple-git-hooks": "^2.13.0",
-        "vite": "^5.4.19"
+        "vite": "^8.0.14"
     },
     "simple-git-hooks": {
         "pre-commit": "npx lint-staged",
